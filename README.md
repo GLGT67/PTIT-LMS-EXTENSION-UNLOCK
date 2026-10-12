@@ -7,18 +7,15 @@ Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên h�
 
 ## 🎯 Các Tính Năng Nổi Bật
 
-1. **Mở khóa tua video 100%:**
-   - Triệt tiêu mã chặn click trên thanh trượt video (`preventDefault()` của React).
-   - Ngắt các sự kiện ép giật lùi (Snapback `seeking` / `seeked` về `maxWatched`).
-2. **Thanh công cụ HUD tiện lợi nổi trên video:**
+1. **Thanh công cụ HUD tiện lợi nổi trên video:**
    - **⏪ -10s / ⏩ +10s:** Tua nhanh hoặc lùi 10 giây.
    - **⏩ +1m:** Tua nhanh 1 phút.
    - **⚡ 2x / 🚀 5x:** Tăng tốc độ phát video.
    - **🎯 Xong:** Nhảy thẳng đến gần cuối video để hoàn thành bài giảng tức thì.
-3. **Phím tắt điều khiển nhanh:**
+2. **Phím tắt điều khiển nhanh:**
    - Phím `→` / `←`: Tua tới / lùi 5 giây.
    - Phím `]` / `[` hoặc phím `+` / `-`: Tăng / giảm tốc độ xem (1x đến 16x).
-4. **Bảng thông báo (Toast HUD):**
+3. **Bảng thông báo (Toast HUD):**
    - Hiển thị trực quan tốc độ và thời gian tua góc trên màn hình.
 
 
