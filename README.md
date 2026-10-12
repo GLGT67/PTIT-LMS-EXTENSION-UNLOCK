@@ -1,6 +1,6 @@
 # PTIT LMS - Extension Unlock (v2.2.0)
 
-Tiện ích mở rộng và UserScript mở khóa tính năng tua video (YouTube & Video nội bộ Next.js HTML5 môn Triết học BAS1152) trên hệ thống LMS PTIT.
+Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên hệ thống LMS PTIT.
 
 - **Phát triển bởi:** [GLGT67](https://github.com/GLGT67)
 - **Kho lưu trữ:** [https://github.com/GLGT67/PTIT-LMS-EXTENSION-UNLOCK](https://github.com/GLGT67/PTIT-LMS-EXTENSION-UNLOCK)
@@ -37,22 +37,3 @@ Tiện ích mở rộng và UserScript mở khóa tính năng tua video (YouTube
 1. Cài đặt tiện ích **Tampermonkey** từ Chrome Web Store.
 2. Mở file `ptit_lms_unlock.user.js` bằng trình duyệt hoặc sao chép toàn bộ nội dung dán vào script mới trong Tampermonkey.
 3. Bấm **Save / Install**. Xong!
-
----
-
-## 📄 Cấu Trúc Dự Án
-```text
-├── manifest.json            # Cấu hình Manifest V3 của Chrome Extension
-├── content_loader.js        # Content script nạp main.js vào MAIN World
-├── main.js                  # Lõi mở khóa video, HUD controls & hotkeys
-├── popup.html               # Giao diện popup extension hiển thị phím tắt & trạng thái
-├── ptit_lms_unlock.user.js  # Bản UserScript độc lập dành cho Tampermonkey
-├── icons/                   # Icon hiển thị của tiện ích
-└── README.md                # Tài liệu hướng dẫn sử dụng
-```
-
----
-
-## 👤 Tác Giả & Bản Quyền
-- **Developer:** [GLGT67](https://github.com/GLGT67)
-- **License:** MIT
