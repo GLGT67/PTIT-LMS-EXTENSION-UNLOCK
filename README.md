@@ -1,11 +1,9 @@
 # PTIT LMS - Extension Unlock (v2.2.0)
+tool được vibecode 98% :D
 
 Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên hệ thống LMS PTIT.
 
-- **Phát triển bởi:** [GLGT67](https://github.com/GLGT67)
-- **Kho lưu trữ:** [https://github.com/GLGT67/PTIT-LMS-EXTENSION-UNLOCK](https://github.com/GLGT67/PTIT-LMS-EXTENSION-UNLOCK)
-
----
+ **Phát triển bởi:** [GLGT67](https://github.com/GLGT67)
 
 ## 🎯 Các Tính Năng Nổi Bật
 
@@ -23,7 +21,6 @@ Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên h�
 4. **Bảng thông báo (Toast HUD):**
    - Hiển thị trực quan tốc độ và thời gian tua góc trên màn hình.
 
----
 
 ## 🛠 Hướng Dẫn Cài Đặt
 
