@@ -1,3 +1,5 @@
 # Folders ignored from repository
 workspace/
 file upload/
+AGENTS.md
+.agents/
