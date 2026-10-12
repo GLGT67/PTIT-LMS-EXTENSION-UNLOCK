@@ -1,0 +1,2 @@
+# PTIT-LMS-EXTENSION-UNLOCK
+tool vibecode
