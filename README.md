@@ -21,13 +21,11 @@ Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên h�
 
 ## 🛠 Hướng Dẫn Cài Đặt
 
-### Cách 1: Nạp qua Chrome Extension (Khuyên dùng)
-1. Mở Chrome / Edge / Cốc Cốc, truy cập: `chrome://extensions/`
-2. Bật công tắc **Chế độ cho nhà phát triển (Developer mode)** ở góc trên cùng bên phải.
-3. Bấm vào nút **Tải tiện ích đã giải nén (Load unpacked)** và chọn thư mục chứa mã nguồn này.
-4. Truy cập trang bài giảng trên [LMS PTIT](https://lms.ptit.edu.vn/), bấm **F5** để kích hoạt!
+### Cách 1: Nạp qua Chrome Extension (có hỗ trợ các trình duyệ sử dụng extension của chormimum)
+1. sau khi tải xong, unzip file.
+2. Mở Chrome / Edge / Cốc Cốc, truy cập: `chrome://extensions/`
+3. Bật công tắc **Chế độ cho nhà phát triển (Developer mode)** ở góc trên cùng bên phải.
+4. Bấm vào nút **Tải tiện ích đã giải nén (Load unpacked)** và chọn file PTIT-LMS-EXTENSION-UNLOCK(nằm ở trong file đã được giải nén).
+5. Truy cập trang bài giảng trên [LMS PTIT](https://lms.ptit.edu.vn/), bấm **F5** để kích hoạt!
 
-### Cách 2: Cài qua Tampermonkey UserScript
-1. Cài đặt tiện ích **Tampermonkey** từ Chrome Web Store.
-2. Mở file `ptit_lms_unlock.user.js` bằng trình duyệt hoặc sao chép toàn bộ nội dung dán vào script mới trong Tampermonkey.
-3. Bấm **Save / Install**. Xong!
+P/s nếu không tải được có thể hỏi AI, hoặc liên hệ với tôi nếu bạn đủ rảnh.
