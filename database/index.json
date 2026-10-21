@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "updated_at": "2026-10-21",
   "author": "GLGT67",
   "subjects": [
@@ -15,6 +15,13 @@
       "name": "Lịch sử văn minh thế giới",
       "file": "MUL12117.json",
       "total_questions": 94,
+      "status": "ready"
+    },
+    {
+      "code": "BAS1152",
+      "name": "Chủ nghĩa xã hội khoa học",
+      "file": "BAS1152.json",
+      "total_questions": 127,
       "status": "ready"
     }
   ]
