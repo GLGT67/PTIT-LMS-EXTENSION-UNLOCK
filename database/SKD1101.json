@@ -1,0 +1,1046 @@
+{
+  "subject_code": "SKD1101",
+  "subject_name": "Kỹ năng thuyết trình",
+  "version": "1.2",
+  "updated_at": "2026-10-21",
+  "author": "GLGT67",
+  "source": "PTIT LMS Trusted Source (https://lms.ptit.edu.vn/courses/course-v1:PTIT+SKD1101+20261)",
+  "quizzes": [
+    {
+      "lesson_name": "Toàn bộ ngân hàng câu hỏi Kỹ năng thuyết trình (SKD1101) - 100% Đầy Đủ",
+      "questions": [
+        {
+          "question": "Ở góc độ học thuật, quá trình thuyết trình hướng tới những mục tiêu chính nào sau đây?",
+          "options": [
+            "Nói cho đúng, nói cho xong và nói để giải tỏa áp lực.",
+            "Truyền đạt thông tin, giải thích vấn đề hoặc thuyết phục người nghe.",
+            "Thu thập dữ liệu, nghiên cứu thị trường và tìm kiếm đối tác",
+            "Ghi nhớ kịch bản, sử dụng công nghệ cao và biểu diễn nghệ thuật."
+          ],
+          "answer": "Truyền đạt thông tin, giải thích vấn đề hoặc thuyết phục người nghe."
+        },
+        {
+          "question": "Một bài thuyết trình hiệu quả được xem là kết quả tổng hòa của ba yếu tố then chốt nào?",
+          "options": [
+            "Giọng nói hay, ngoại hình đẹp và thiết bị hiện đại.",
+            "Kịch bản dài, nhiều slide và thời gian trình bày lâu.",
+            "Kiến thức chuyên môn, kỹ năng trình bày và sự tự tin cá nhân",
+            "Sự may mắn, sự ủng hộ của khán giả và nội dung đơn giản."
+          ],
+          "answer": "Kiến thức chuyên môn, kỹ năng trình bày và sự tự tin cá nhân"
+        },
+        {
+          "question": "Bản chất của thuyết trình là \"một quá trình giao tiếp có chủ đích và có ảnh hưởng\". Điều này có nghĩa là gì?",
+          "options": [
+            "Người nói chỉ cần cung cấp thông tin thô cho khán giả.",
+            "Người nói buộc khán giả phải làm theo ý mình bằng mọi cách.",
+            "Người nói không chỉ cung cấp thông tin mà còn tác động đến suy nghĩ và hành động của người nghe.",
+            "Người nói phải chuẩn bị kịch bản bằng lời nói thật dài để tạo uy thế."
+          ],
+          "answer": "Người nói không chỉ cung cấp thông tin mà còn tác động đến suy nghĩ và hành động của người nghe."
+        },
+        {
+          "question": "Khi một sinh viên thuyết trình đề tài nghiên cứu và sử dụng slide có biểu đồ, hình ảnh minh họa để giúp người nghe dễ tiếp nhận, đây là sự kết hợp giữa yếu tố nào?",
+          "options": [
+            "Công nghệ hiện đại và năng khiếu cá nhân.",
+            "Nội dung rõ ràng và cách trình bày hiệu quả.",
+            "Sự ép buộc và sự thuyết phục.",
+            "Ngôn ngữ viết và ngôn ngữ ký hiệu"
+          ],
+          "answer": "Nội dung rõ ràng và cách trình bày hiệu quả."
+        },
+        {
+          "question": "Trong vai trò phát triển kỹ năng mềm và tư duy, hoạt động thuyết trình rèn luyện cho sinh viên những khả năng cụ thể nào?",
+          "options": [
+            "Khả năng ghi nhớ nguyên văn kịch bản và nói không ngừng nghỉ.",
+            "Kỹ năng quản lý tài chính và quản trị rủi ro doanh nghiệp.",
+            "Kỹ năng giao tiếp, làm việc nhóm, tư duy phân tích và sáng tạo",
+            "Kỹ năng thiết kế đồ họa chuyên sâu và lập trình máy tính."
+          ],
+          "answer": "Kỹ năng giao tiếp, làm việc nhóm, tư duy phân tích và sáng tạo"
+        },
+        {
+          "question": "Mục tiêu cốt lõi của loại hình \"Thuyết trình cung cấp thông tin\" là gì?",
+          "options": [
+            "Thay đổi hoàn toàn quan điểm và hành động của khán giả.",
+            "Khơi dậy niềm cảm hứng và đam mê từ người nghe.",
+            "Truyền đạt kiến thức để người nghe hiểu đúng và nắm vững một vấn đề cụ thể.",
+            "Tạo ra bầu không khí vui vẻ và thư giãn cho người xem."
+          ],
+          "answer": "Truyền đạt kiến thức để người nghe hiểu đúng và nắm vững một vấn đề cụ thể."
+        },
+        {
+          "question": "\"Chìa khóa thành công\" đối với một bài thuyết trình cung cấp thông tin là gì?",
+          "options": [
+            "Khả năng kể chuyện lay động lòng người.",
+            "Sử dụng các thuật ngữ chuyên môn phức tạp để thể hiện trình độ.",
+            "Sự rõ ràng, mạch lạc và nội dung được sắp xếp logic.",
+            "Việc sử dụng ngôn ngữ dí dỏm để gây cười."
+          ],
+          "answer": "Sự rõ ràng, mạch lạc và nội dung được sắp xếp logic."
+        },
+        {
+          "question": "Theo tài liệu, điểm khác biệt lớn nhất giữa thuyết trình thuyết phục và thuyết trình truyền cảm hứng là gì?",
+          "options": [
+            "Thuyết phục chỉ dùng cho doanh nhân, truyền cảm hứng chỉ dùng cho chính trị gia.",
+            "Thuyết phục dùng ngôn ngữ đơn giản, truyền cảm hứng dùng thuật ngữ khoa học",
+            "Thuyết phục hướng đến thay đổi suy nghĩ/hành động, còn truyền cảm hứng chạm đến trái tim để thôi thúc hành động tự nguyện.",
+            "Thuyết phục đòi hỏi slide đẹp, truyền cảm hứng không cần sử dụng slide."
+          ],
+          "answer": "Thuyết phục hướng đến thay đổi suy nghĩ/hành động, còn truyền cảm hứng chạm đến trái tim để thôi thúc hành động tự nguyện."
+        },
+        {
+          "question": "Một startup khi gọi vốn cần trình bày các con số tài chính chính xác, đồng thời kể về hành trình đầy cảm xúc của mình để thuyết phục nhà đầu tư. Đây là ví dụ điển hình của loại hình nào?",
+          "options": [
+            "Thuyết trình giải trí.",
+            "Thuyết trình cung cấp thông tin.",
+            "Thuyết trình kết hợp.",
+            "Thuyết trình truyền cảm hứng."
+          ],
+          "answer": "Thuyết trình kết hợp."
+        },
+        {
+          "question": "Để trở thành một người thuyết trình chuyên nghiệp, sinh viên cần thay đổi tư duy như thế nào?",
+          "options": [
+            "Tập trung tuyệt đối vào việc \"tôi cần nói gì\".",
+            "Chuyển từ tư duy \"tôi cần nói gì\" sang \"tôi muốn người nghe làm gì sau bài nói\".",
+            "Cố gắng mặc vest chuyên nghiệp trong mọi tình huống thuyết trình.",
+            "Học thuộc lòng toàn bộ bản thảo để tránh sai sót."
+          ],
+          "answer": "Chuyển từ tư duy \"tôi cần nói gì\" sang \"tôi muốn người nghe làm gì sau bài nói\"."
+        },
+        {
+          "question": "Trong bốn yếu tố cấu thành bài thuyết trình (người thuyết trình, nội dung, khán giả, phương tiện hỗ trợ) được ví như hình ảnh nào để nhấn mạnh sự cân bằng?",
+          "options": [
+            "Bốn bánh xe của một chiếc ô tô đang chạy.",
+            "Bốn chân của một chiếc bàn.",
+            "Bốn bức tường của một ngôi nhà vững chãi",
+            "Bốn cánh của một chiếc quạt máy"
+          ],
+          "answer": "Bốn chân của một chiếc bàn."
+        },
+        {
+          "question": "Theo nguyên tắc (6x6) khi thiết kế slide trình chiếu, quy định cụ thể về việc trình bày văn bản là gì?",
+          "options": [
+            "Mỗi bài thuyết trình tối đa 6 slide và mỗi slide có 6 hình ảnh.",
+            "Mỗi slide tối đa 6 màu sắc và sử dụng 6 loại font chữ khác nhau.",
+            "Mỗi slide tối đa sáu dòng và mỗi dòng không quá sáu từ",
+            "Mỗi slide chỉ nên xuất hiện trong 6 giây và có 6 từ khóa chính"
+          ],
+          "answer": "Mỗi slide tối đa sáu dòng và mỗi dòng không quá sáu từ"
+        },
+        {
+          "question": "Tại sao lại khẳng định người thuyết trình cần phải \"am hiểu chủ đề\" sâu sắc thay vì chỉ đọc lại kịch bản?",
+          "options": [
+            "Để có thể kéo dài thời gian thuyết trình khi cần thiết.",
+            "Để tạo niềm tin cho khán giả và xử lý tốt các tình huống bất ngờ",
+            "Để chứng tỏ trình độ học vấn vượt trội so với người nghe.",
+            "Để giảm bớt sự phụ thuộc vào các thiết bị hỗ trợ trực quan."
+          ],
+          "answer": "Để tạo niềm tin cho khán giả và xử lý tốt các tình huống bất ngờ"
+        },
+        {
+          "question": "Nếu đối tượng khán giả là các kỹ sư phần mềm có kinh nghiệm, người thuyết trình nên điều chỉnh nội dung và ngôn ngữ như thế nào cho phù hợp?",
+          "options": [
+            "Giải thích các khái niệm cơ bản một cách đơn giản, sử dụng ví dụ đời thường.",
+            "Tập trung chủ yếu vào việc kể các câu chuyện cá nhân và kinh nghiệm sống.",
+            "Sử dụng ngôn ngữ chuyên môn và các số liệu kỹ thuật chính xác",
+            "Tránh sử dụng hoàn toàn các thuật ngữ chuyên ngành để không gây mệt mỏi"
+          ],
+          "answer": "Sử dụng ngôn ngữ chuyên môn và các số liệu kỹ thuật chính xác"
+        },
+        {
+          "question": "Để tăng sức thuyết phục cho thông điệp \"nhiều sinh viên gặp khó khăn\", cách trình bày nào sau đây được đánh giá cao nhất?",
+          "options": [
+            "Lặp lại câu khẳng định nhiều lần với âm lượng lớn.",
+            "Sử dụng các tính từ mạnh để mô tả sự khó khăn đó.",
+            "Đưa ra số liệu cụ thể từ các cuộc khảo sát thực tế.",
+            "Chiếu một đoạn video minh họa có âm nhạc cảm động."
+          ],
+          "answer": "Đưa ra số liệu cụ thể từ các cuộc khảo sát thực tế."
+        },
+        {
+          "question": "Việc xác định mục tiêu đóng vai trò gì trong hành trình thực hiện một bài thuyết trình",
+          "options": [
+            "Là bước cuối cùng để kiểm tra lại các slide đã soạn thảo.",
+            "Là tấm bản đồ và kim chỉ nam giúp người nói luôn đi đúng hướng.",
+            "Là công cụ hỗ trợ để người thuyết trình nói được lâu hơn",
+            "Là phần phụ lục để khán giả tra cứu thông tin khi cần thiết."
+          ],
+          "answer": "Là tấm bản đồ và kim chỉ nam giúp người nói luôn đi đúng hướng."
+        },
+        {
+          "question": "Trong phương pháp 2W1H, yếu tố \"How\" (Như thế nào) tập trung vào mục tiêu nào sau đây?",
+          "options": [
+            "Những kiến thức và thông tin cụ thể mà diễn giả muốn truyền đạt",
+            "Động lực và lý do cốt lõi tại sao chủ đề này lại quan trọng.",
+            "Kết quả, sự thay đổi về cảm nhận và hành động của khán giả sau bài nói.",
+            "Danh sách các trang thiết bị kỹ thuật cần thiết cho buổi thuyết trình."
+          ],
+          "answer": "Kết quả, sự thay đổi về cảm nhận và hành động của khán giả sau bài nói."
+        },
+        {
+          "question": "Đâu là sai lầm phổ biến nhất mà hầu hết sinh viên mắc phải khi bắt đầu chuẩn bị một bài thuyết trình?",
+          "options": [
+            "Dành quá ít thời gian để luyện tập kỹ năng nói.",
+            "Không sử dụng các hiệu ứng chuyển động trên slide.",
+            "Bắt đầu làm nội dung và slide ngay mà không xác định rõ đích đến (mục tiêu)",
+            "Lựa chọn những chủ đề quá khó đối với trình độ của bản thân."
+          ],
+          "answer": "Bắt đầu làm nội dung và slide ngay mà không xác định rõ đích đến (mục tiêu)"
+        },
+        {
+          "question": "Một mục tiêu được phát biểu: \"Ít nhất 30% sinh viên sẽ đăng ký tham gia một khóa học trực tuyến về kỹ năng tự học trong tuần tới\" thuộc cấp độ nào trong phương pháp sử dụng động từ hành động?",
+          "options": [
+            "Cấp độ 1: Muốn khán giả hiểu.",
+            "Cấp độ 2: Muốn khán giả nhớ.",
+            "Cấp độ 3: Muốn thuyết phục khán giả",
+            "Cấp độ 4: Muốn khán giả hành động."
+          ],
+          "answer": "Cấp độ 4: Muốn khán giả hành động."
+        },
+        {
+          "question": "Để đạt hiệu quả cao nhất trong việc thiết lập mục tiêu bài thuyết trình, tài liệu đưa ra lời khuyên gì?",
+          "options": [
+            "Chỉ nên sử dụng phương pháp 2W1H để bao quát cảm xúc.",
+            "Chỉ tập trung vào các động từ hành động để dễ đo lường kết quả.",
+            "Kết hợp cả hai phương pháp 2W1H và động từ hành động.",
+            "Ưu tiên việc chuẩn bị slide đẹp trước khi nghĩ về mục tiêu."
+          ],
+          "answer": "Kết hợp cả hai phương pháp 2W1H và động từ hành động."
+        },
+        {
+          "question": "Đâu là \"sai lầm phổ biến nhất\" mà người thuyết trình thường gặp phải khi chuẩn bị nội dung?",
+          "options": [
+            "Không đầu tư đủ thời gian để thiết kế các hiệu ứng slide phức tạp.",
+            "Sử dụng quá ít các thuật ngữ chuyên môn để thể hiện trình độ.",
+            "Chuẩn bị bài thuyết trình từ góc nhìn của bản thân thay vì từ góc nhìn của người nghe",
+            "Không liệt kê đủ danh sách các tài liệu tham khảo trong bài nói"
+          ],
+          "answer": "Chuẩn bị bài thuyết trình từ góc nhìn của bản thân thay vì từ góc nhìn của người nghe"
+        },
+        {
+          "question": "Năm câu hỏi cốt lõi để phân tích người nghe bao gồm: Họ là ai?, Mục đích của họ là gì?, Mức độ hiểu biết của họ ra sao?, Tâm lý của họ thế nào? và câu hỏi quan trọng nhất là gì?",
+          "options": [
+            "Họ có sẵn lòng đặt câu hỏi cho bạn hay không?",
+            "Bạn muốn người nghe nhớ điều gì sau bài thuyết trình?",
+            "Họ có sử dụng mạng xã hội để tìm kiếm thông tin không?",
+            "Bạn sẽ mặc trang phục gì để phù hợp với độ tuổi của họ?"
+          ],
+          "answer": "Bạn muốn người nghe nhớ điều gì sau bài thuyết trình?"
+        },
+        {
+          "question": "Đối với nhóm người nghe tiếp nhận thông tin theo kiểu \"thị giác\", người thuyết trình cần ưu tiên yếu tố nào để đạt hiệu quả cao nhất?",
+          "options": [
+            "Chú trọng vào ngữ điệu, nhịp điệu và các câu chuyện kể sinh động.",
+            "Thể hiện sự chân thành và những trải nghiệm mang tính cảm xúc.",
+            "Đầu tư vào slide đẹp mắt, sử dụng hình ảnh, biểu đồ và số liệu trực quan.",
+            "Khuyến khích thảo luận nhóm và các hoạt động vận động tại chỗ"
+          ],
+          "answer": "Đầu tư vào slide đẹp mắt, sử dụng hình ảnh, biểu đồ và số liệu trực quan."
+        },
+        {
+          "question": "Khi phải thuyết trình trước một nhóm người nghe được phân loại là \"chống đối\", hành động nào dưới đây là bắt buộc để có một cuộc đối thoại hiệu quả?",
+          "options": [
+            "Bỏ qua các câu hỏi khó và tập trung vào những người nghe thân thiện hơn.",
+            "Sử dụng thật nhiều video hài hước để làm giảm bầu không khí căng thẳng.",
+            "Chuẩn bị kỹ lưỡng các lập luận chặt chẽ để sẵn sàng phản biện.",
+            "Nói thật nhanh để kết thúc bài thuyết trình trước khi họ kịp đặt câu hỏi."
+          ],
+          "answer": "Chuẩn bị kỹ lưỡng các lập luận chặt chẽ để sẵn sàng phản biện."
+        },
+        {
+          "question": "Trong trường hợp bài thuyết trình có \"số lượng người nghe đông\", chiến thuật tổ chức nào sau đây được tài liệu khuyến nghị?",
+          "options": [
+            "Ưu tiên không gian gần gũi và khuyến khích mọi người cùng trao đổi thảo luận.",
+            "Tập trung vào thông điệp chính, sử dụng hình ảnh/video để giữ sự chú ý và nội dung cần súc tích",
+            "Cố gắng tương tác cá nhân với từng khán giả để tạo sự kết nối sâu sắc.",
+            "Chỉ trình bày các nội dung chuyên sâu để đảm bảo tính hàn lâm cho số đông."
+          ],
+          "answer": "Tập trung vào thông điệp chính, sử dụng hình ảnh/video để giữ sự chú ý và nội dung cần súc tích"
+        },
+        {
+          "question": "Tại sao việc lựa chọn chủ đề lại được ví như \"nền móng\" của một ngôi nhà?",
+          "options": [
+            "Vì đây là phần tốn nhiều chi phí nhất trong quá trình chuẩn bị.",
+            "Vì nếu chủ đề không hấp dẫn, khán giả sẽ không bao giờ đến nghe.",
+            "Vì nếu nền móng (chủ đề) lệch thì bài thuyết trình sẽ không đứng vững, dù có trình bày đẹp đến đâu.",
+            "Vì chủ đề là yếu tố cuối cùng hoàn thiện một bài thuyết trình chuyên nghiệp."
+          ],
+          "answer": "Vì nếu nền móng (chủ đề) lệch thì bài thuyết trình sẽ không đứng vững, dù có trình bày đẹp đến đâu."
+        },
+        {
+          "question": "Khi một diễn giả chọn nói về một vấn đề mà bản thân không nắm vững, điều này gây ra hậu quả trực tiếp nào theo các tiêu chí vàng?",
+          "options": [
+            "Làm bài nói kéo dài hơn dự kiến do phải giải thích nhiều.",
+            "Khiến khán giả cảm thấy bài nói quá chuyên sâu và khó hiểu.",
+            "Làm giảm uy tín của diễn giả một cách nhanh chóng vì thiếu sự chắc chắn.",
+            "Giúp diễn giả nhận được nhiều câu hỏi phản biện hơn từ khán giả"
+          ],
+          "answer": "Làm giảm uy tín của diễn giả một cách nhanh chóng vì thiếu sự chắc chắn."
+        },
+        {
+          "question": "Nhóm thông tin nào bao gồm các số liệu, thống kê, nghiên cứu khoa học và có vai trò trả lời cho câu hỏi của khán giả: \"Vì sao tôi nên tin bạn?\"",
+          "options": [
+            "Thông tin nền tảng (Phải biết).",
+            "Thông tin chi tiết (Cần biết)",
+            "Thông tin minh họa (Nên biết)",
+            "Thông tin đối lập (So sánh)"
+          ],
+          "answer": "Thông tin chi tiết (Cần biết)"
+        },
+        {
+          "question": "Cách tiếp cận chuyên nghiệp đối với \"Thông tin đối lập\" (các quan điểm trái chiều) để tăng tính thuyết phục cho bài nói là gì?",
+          "options": [
+            "Tuyệt đối không đề cập đến vì sẽ làm yếu đi lập luận của bản thân",
+            "Chỉ nhắc đến các quan điểm trái chiều khi có khán giả đặt câu hỏi chất vấn.",
+            "Chủ động đề cập đến hạn chế, thách thức rồi dùng lập luận vững chắc để nhấn mạnh ưu điểm vượt trội.",
+            "Liệt kê thật nhiều quan điểm trái chiều để thể hiện sự khiêm tốn của người nói."
+          ],
+          "answer": "Chủ động đề cập đến hạn chế, thách thức rồi dùng lập luận vững chắc để nhấn mạnh ưu điểm vượt trội."
+        },
+        {
+          "question": "Trong quy trình 5 bước thu thập thông tin, bước nào được coi là \"then chốt\" để đảm bảo chất lượng nội dung?",
+          "options": [
+            "Lập kế hoạch thu thập nguồn thông tin.",
+            "Ghi chép có hệ thống các ý chính và số liệu.",
+            "Đánh giá thông tin về tính chính xác, sự phù hợp và kiểm chứng nguồn",
+            "Sắp xếp thông tin theo sơ đồ tư duy để nhìn rõ cấu trúc."
+          ],
+          "answer": "Đánh giá thông tin về tính chính xác, sự phù hợp và kiểm chứng nguồn"
+        },
+        {
+          "question": "Trong mô hình \"Cấu trúc Cái Đinh\", tỷ lệ phân bổ thời gian chuẩn cho ba phần Mở bài – Thân bài – Kết luận là bao nhiêu?",
+          "options": [
+            "15% – 70% – 15%",
+            "20% – 60% – 20%",
+            "10% – 85% – 5%",
+            "5% – 90% – 5%"
+          ],
+          "answer": "10% – 85% – 5%"
+        },
+        {
+          "question": "Theo nội dung bài giảng, phần \"Thân bài\" hiệu quả nhất nên bao gồm bao nhiêu ý chính?",
+          "options": [
+            "Chỉ nên có 1 ý duy nhất để khán giả dễ nhớ",
+            "Càng nhiều ý càng tốt để thể hiện sự am hiểu sâu sắc.",
+            "Nên có từ 3 đến 5 ý chính.",
+            "Phải có ít nhất 7 ý để đảm bảo tính toàn diện."
+          ],
+          "answer": "Nên có từ 3 đến 5 ý chính."
+        },
+        {
+          "question": "Một sinh viên thuyết trình về đề tài \"Sự phát triển của công nghệ thông tin\" đi từ giai đoạn khởi đầu, đến giai đoạn bùng nổ và kết thúc ở xu hướng hiện nay. Sinh viên này đang sử dụng loại kết cấu nội dung nào?",
+          "options": [
+            "Kết cấu theo Trình tự Thời gian.",
+            "Kết cấu Tuyến tính.",
+            "Kết cấu Vấn đề - Giải pháp.",
+            "Kết cấu So sánh - Đối chiếu."
+          ],
+          "answer": "Kết cấu theo Trình tự Thời gian."
+        },
+        {
+          "question": "Phần \"Kết luận\" được ví như bộ phận giúp cố định toàn bộ bài thuyết trình. Ba việc cốt lõi cần thực hiện ở phần này là gì?",
+          "options": [
+            "Chào hỏi, dẫn dắt bằng một câu hỏi và tóm tắt ý chính.",
+            "Giới thiệu bản thân, phân tích số liệu và đưa ra lời kêu gọi.",
+            "Tóm tắt ngắn gọn các ý chính, nhấn mạnh thông điệp quan trọng và để lại một điểm ghi nhớ.",
+            "Cảm ơn khán giả, xin lỗi vì các sai sót và trả lời mọi câu hỏi."
+          ],
+          "answer": "Tóm tắt ngắn gọn các ý chính, nhấn mạnh thông điệp quan trọng và để lại một điểm ghi nhớ."
+        },
+        {
+          "question": "Tại sao việc sử dụng các \"từ nối\" (như: thứ nhất, tiếp theo, tuy nhiên, do đó...) lại là nguyên tắc không thể bỏ qua dù bạn chọn bất kỳ kết cấu nào?",
+          "options": [
+            "Để kéo dài thời gian thuyết trình cho đủ thời lượng yêu cầu.",
+            "Để bài thuyết trình trở nên trang trọng và mang tính học thuật cao hơn.",
+            "Để khán giả nhận biết sự chuyển ý và không bị đứt mạch tư duy.",
+            "Để giúp người thuyết trình không bị quên bài khi đang nói."
+          ],
+          "answer": "Để khán giả nhận biết sự chuyển ý và không bị đứt mạch tư duy."
+        },
+        {
+          "question": "Câu 1: Bản chất thực sự của một \"Kịch bản thuyết trình\" là gì?",
+          "options": [
+            "A. Một dàn ý mở rộng bao gồm các gạch đầu dòng quan trọng.",
+            "B. Một danh sách các từ khóa chính để trình chiếu trên slide.",
+            "C. Một bản kế hoạch thực thi chi tiết cho từng giây và từng ý khi đứng trước người nghe.",
+            "D. Một văn bản hành chính dùng để báo cáo nội dung bài nói cho người quản lý."
+          ],
+          "answer": "Một bản kế hoạch thực thi chi tiết cho từng giây và từng ý khi đứng trước người nghe."
+        },
+        {
+          "question": "Câu 2: Một kịch bản thuyết trình chuẩn mực cần phải thể hiện rõ ba yếu tố then chốt nào sau đây?",
+          "options": [
+            "A. Hình ảnh minh họa, sơ đồ tư duy và tài liệu tham khảo.",
+            "B. Lời thoại chi tiết, phương tiện hỗ trợ và thời gian thực hiện.",
+            "C. Danh sách khán giả, địa điểm tổ chức và thiết bị kỹ thuật.",
+            "D. Câu hỏi thảo luận, các trò chơi nhỏ và quà tặng cho người nghe."
+          ],
+          "answer": "Lời thoại chi tiết, phương tiện hỗ trợ và thời gian thực hiện"
+        },
+        {
+          "question": "Câu 3: Trong phần \"Thân bài\" của kịch bản, việc viết rõ các câu chuyển ý (như \"thứ nhất\", \"tiếp theo\", \"tuy nhiên\"...) nhằm mục đích chính là gì? A A. Để bài thuyết trình kéo dài thêm thời gian cho đủ thời lượng quy định. B B. Để người nói thể hiện vốn từ vựng phong phú và khả năng ngôn ngữ học thuật Câu 1 Chọn 1 đáp án Đánh dấu xem lại Vai trò đúng nhất của Slide trong một bài thuyết trình chuyên nghiệp là gì?",
+          "options": [
+            "Là bản chép lại toàn bộ lời nói của người thuyết trình để khán giả tiện theo dõi.",
+            "Là công cụ thay thế hoàn toàn cho người nói khi nội dung quá phức tạp.",
+            "Là công cụ nhấn mạnh ý chính và định hướng sự chú ý của khán giả.",
+            "Là phương tiện dùng để thể hiện kỹ năng thiết kế đồ họa của diễn giả."
+          ],
+          "answer": "Để tạo cầu nối giúp mạch tư duy của khán giả không bị đứt gãy"
+        },
+        {
+          "question": "Nguyên tắc \"KISS\" và quy tắc \"6x6\" trong thiết kế slide nhằm mục đích chính là gì?",
+          "options": [
+            "Giúp slide trông đẹp mắt và mang tính nghệ thuật cao hơn.",
+            "Đảm bảo sự đơn giản, giúp khán giả không bị phân tâm giữa việc đọc và việc nghe.",
+            "Để người thuyết trình không cần phải chuẩn bị quá nhiều nội dung giải thích.",
+            "Tăng thời gian thuyết trình bằng cách chia nhỏ thông tin ra nhiều slide."
+          ],
+          "answer": "Đảm bảo sự đơn giản, giúp khán giả không bị phân tâm giữa việc đọc và việc nghe."
+        },
+        {
+          "question": "Khi sử dụng Video minh họa, sai lầm nào sau đây khiến khán giả dễ mất tập trung nhất?",
+          "options": [
+            "Sử dụng video có âm thanh rõ ràng và hình ảnh sắc nét.",
+            "Kiểm tra kỹ kỹ thuật trước khi trình chiếu trực tiếp.",
+            "Sử dụng video quá dài hoặc không liên quan trực tiếp đến thông điệp chính.",
+            "Dùng video để minh họa cho các quy trình hoặc tình huống thực tế."
+          ],
+          "answer": "Sử dụng video quá dài hoặc không liên quan trực tiếp đến thông điệp chính."
+        },
+        {
+          "question": "Điều kiện tiên quyết khi sử dụng âm thanh hỗ trợ trong bài thuyết trình là gì?",
+          "options": [
+            "Âm thanh chỉ được đóng vai trò hỗ trợ và không bao giờ được lấn át lời nói.",
+            "Âm thanh phải thật lớn để tạo sự sôi động cho cả hội trường.",
+            "Âm thanh phải được bật liên tục từ đầu đến cuối bài thuyết trình.",
+            "Sử dụng thật nhiều hiệu ứng âm thanh để gây bất ngờ cho người nghe."
+          ],
+          "answer": "Âm thanh chỉ được đóng vai trò hỗ trợ và không bao giờ được lấn át lời nói."
+        },
+        {
+          "question": "Nhận định nào sau đây phản ánh đúng \"sai lầm phổ biến nhất\" và tư duy đúng về phương pháp sử dụng phương tiện hỗ trợ?",
+          "options": [
+            "Càng nhiều phương tiện hỗ trợ (video, âm thanh, mô hình) thì bài thuyết trình càng chuyên nghiệp",
+            "Phương tiện hỗ trợ là trung tâm của bài thuyết trình, người nói chỉ là người vận hành.",
+            "Phương tiện hỗ trợ chỉ có giá trị khi phục vụ nội dung, không phải khi nó tự thu hút sự chú ý về phía mình.",
+            "Nên chọn phương tiện hỗ trợ dựa trên tiêu chí \"đẹp\" thay vì tiêu chí \"cần thiết\"."
+          ],
+          "answer": "Phương tiện hỗ trợ chỉ có giá trị khi phục vụ nội dung, không phải khi nó tự thu hút sự chú ý về phía mình."
+        },
+        {
+          "question": "Theo quan điểm của Dale Carnegie được đề cập trong tài liệu, yếu tố nào quyết định khoảng cách giữa ba phiên bản của một bài thuyết trình?",
+          "options": [
+            "Sự chuẩn bị kỹ lưỡng về mặt nội dung kịch bản.",
+            "Khả năng ứng biến linh hoạt trước các câu hỏi của khán giả.",
+            "Mức độ luyện tập của người thuyết trình.",
+            "Chất lượng của các phương tiện hỗ trợ như slide và video."
+          ],
+          "answer": "Mức độ luyện tập của người thuyết trình."
+        },
+        {
+          "question": "Đối với tiếng Việt, tốc độ nói phù hợp khi thuyết trình là bao nhiêu và phương pháp nào giúp kiểm soát yếu tố này một cách khách quan nhất?",
+          "options": [
+            "100-120 từ/phút; phương pháp luyện tập trước gương.",
+            "120-150 từ/phút; phương pháp ghi hình và xem lại.",
+            "150-180 từ/phút; phương pháp luyện tập với nhóm nhỏ.",
+            "80-100 từ/phút; phương pháp sử dụng thẻ gợi ý."
+          ],
+          "answer": "120-150 từ/phút; phương pháp ghi hình và xem lại."
+        },
+        {
+          "question": "Theo \"Quy tắc 5 lần luyện tập\", mục đích cốt lõi của lần luyện tập thứ năm (lần cuối cùng) là gì?",
+          "options": [
+            "Để chỉnh sửa các lỗi phát âm và dùng từ.",
+            "Để ước lượng và điều chỉnh thời gian chính xác cho từng phần.",
+            "Để đạt đến trạng thái tự tin hóa bài thuyết trình.",
+            "Để ghi nhớ toàn bộ nội dung của kịch bản chi tiết."
+          ],
+          "answer": "Để đạt đến trạng thái tự tin hóa bài thuyết trình."
+        },
+        {
+          "question": "Khi sử dụng thẻ gợi ý (cue cards) trong quá trình luyện tập và thuyết trình, người nói nên ghi nội dung như thế nào để đạt hiệu quả tốt nhất?",
+          "options": [
+            "Ghi nguyên văn kịch bản chi tiết để tránh bỏ sót ý.",
+            "Ghi lại các đoạn hội thoại mẫu để đọc khi căng thẳng.",
+            "Chỉ ghi từ khóa, số liệu chính và các ý then chốt.",
+            "Để thẻ trống nhằm rèn luyện khả năng nói tự do hoàn toàn."
+          ],
+          "answer": "Chỉ ghi từ khóa, số liệu chính và các ý then chốt."
+        },
+        {
+          "question": "Tại sao khẳng định sau đúng \"Một bài thuyết trình với nội dung trung bình nhưng được luyện tập kỹ sẽ tốt hơn một bài có nội dung xuất sắc nhưng không luyện tập\"?",
+          "options": [
+            "Vì khán giả thường không chú ý đến nội dung sâu sắc.",
+            "Vì luyện tập giúp bài thuyết trình kéo dài thời gian hơn.",
+            "Vì sự làm chủ nội dung qua luyện tập là yếu tố quyết định chất lượng thực tế.",
+            "Vì nội dung xuất sắc thường đi kèm với các thuật ngữ khó hiểu."
+          ],
+          "answer": "Vì sự làm chủ nội dung qua luyện tập là yếu tố quyết định chất lượng thực tế."
+        },
+        {
+          "question": "Trong cấu trúc bài thuyết trình, tỷ lệ phân bổ thời gian chuẩn cho ba phần Mở bài – Thân bài – Kết luận là bao nhiêu?",
+          "options": [
+            "15% – 70% – 15%",
+            "20% – 60% – 20%",
+            "10% – 85% – 5%",
+            "5% – 90% – 5%"
+          ],
+          "answer": "10% – 85% – 5%"
+        },
+        {
+          "question": "Một kịch bản thuyết trình chuẩn mực cần phải thể hiện rõ ba yếu tố then chốt nào sau đây?",
+          "options": [
+            "Hình ảnh minh họa, sơ đồ tư duy và tài liệu tham khảo",
+            "Lời thoại chi tiết, phương tiện hỗ trợ và thời gian thực hiện",
+            "Danh sách khán giả, địa điểm tổ chức và thiết bị kỹ thuật",
+            "Câu hỏi thảo luận, các trò chơi nhỏ và quà tặng cho người nghe"
+          ],
+          "answer": "Lời thoại chi tiết, phương tiện hỗ trợ và thời gian thực hiện"
+        },
+        {
+          "question": "Trong phần \"Thân bài\" của kịch bản, việc viết rõ các câu chuyển ý (như \"thứ nhất\", \"tiếp theo\", \"tuy nhiên\"...) nhằm mục đích chính là gì?",
+          "options": [
+            "Để bài thuyết trình kéo dài thêm thời gian cho đủ thời lượng quy định",
+            "Để người nói thể hiện vốn từ vựng phong phú và khả năng ngôn ngữ học thuật",
+            "Để tạo cầu nối giúp mạch tư duy của khán giả không bị đứt gãy",
+            "Để giúp khán giả có thời gian ghi chép lại toàn bộ lời nói của diễn giả"
+          ],
+          "answer": "Để tạo cầu nối giúp mạch tư duy của khán giả không bị đứt gãy"
+        },
+        {
+          "question": "Đối với một bài thuyết trình dài 8 phút cách phân bổ thời gian nào sau đây là phù hợp với cấu trúc của 1 bài thuyết trình?",
+          "options": [
+            "Mở bài 2 phút, Thân bài 5 phút, Kết luận 1 phút",
+            "Mở bài 30 giây, Thân bài 7 phút, Kết luận 30 giây",
+            "Mở bài 45-50 giây, Thân bài khoảng 6 phút 30 giây đến 6 phút 45 giây, Kết luận khoảng 30 giây",
+            "Mở bài 1 phút, Thân bài 6 phút, Kết luận 1 phút"
+          ],
+          "answer": "Mở bài 45-50 giây, Thân bài khoảng 6 phút 30 giây đến 6 phút 45 giây, Kết luận khoảng 30 giây"
+        },
+        {
+          "question": "Khẳng định \"Kịch bản không phải là công cụ trói buộc, mà là công cụ giải phóng\". Ý nghĩa của nhận định này là gì?",
+          "options": [
+            "Kịch bản giúp người thuyết trình có thể nói bất cứ điều gì nảy sinh trong đầu mà không cần chuẩn bị",
+            "Kịch bản cho phép người nói bỏ qua các quy tắc về thời gian để tập trung vào cảm xúc",
+            "Kịch bản giải phóng người nói khỏi nỗi lo quên ý và áp lực suy nghĩ câu tiếp theo để tập trung hoàn toàn vào việc truyền đạt và kết nối",
+            "Kịch bản giúp người thuyết trình không cần phải sử dụng các phương tiện hỗ trợ như slide hay video"
+          ],
+          "answer": "Kịch bản giải phóng người nói khỏi nỗi lo quên ý và áp lực suy nghĩ câu tiếp theo để tập trung hoàn toàn vào việc truyền đạt và kết nối"
+        },
+        {
+          "question": "Vai trò đúng nhất của Slide trong một bài thuyết trình chuyên nghiệp là gì?",
+          "options": [
+            "Là bản chép lại toàn bộ lời nói của người thuyết trình để khán giả tiện theo dõi.",
+            "Là công cụ thay thế hoàn toàn cho người nói khi nội dung quá phức tạp.",
+            "Là công cụ nhấn mạnh ý chính và định hướng sự chú ý của khán giả.",
+            "Là phương tiện dùng để thể hiện kỹ năng thiết kế đồ họa của diễn giả."
+          ],
+          "answer": "Là công cụ nhấn mạnh ý chính và định hướng sự chú ý của khán giả."
+        },
+        {
+          "question": "C C. Để tạo cầu nối giúp mạch tư duy của khán giả không bị đứt gãy. D D. Để giúp khán giả có thời gian ghi chép lại toàn bộ lời nói của diễn giả. Câu 4 Chọn 1 đáp án Đánh dấu xem lại Đối với một bài thuyết trình dài 8 phút cách phân bổ thời gian nào sau đây là phù hợp với cấu trúc của 1 bài thuyết trình?",
+          "options": [
+            "A. Mở bài 2 phút, Thân bài 5 phút, Kết luận 1 phút.",
+            "B. Mở bài 30 giây, Thân bài 7 phút, Kết luận 30 giây.",
+            "C. Mở bài 45-50 giây, Thân bài khoảng 6 phút 30 giây đến 6 phút 45 giây, Kết luận khoảng 30 giây.",
+            "D. Mở bài 1 phút, Thân bài 6 phút, Kết luận 1 phút."
+          ],
+          "answer": "Mở bài 45-50 giây, Thân bài khoảng 6 phút 30 giây đến 6 phút 45 giây, Kết luận khoảng 30 giây"
+        },
+        {
+          "question": "Câu 5: Khẳng định \"Kịch bản không phải là công cụ trói buộc, mà là công cụ giải phóng\". Ý nghĩa của nhận định này là gì?",
+          "options": [
+            "A. Kịch bản giúp người thuyết trình có thể nói bất cứ điều gì nảy sinh trong đầu mà không cần chuẩn bị.",
+            "B. Kịch bản cho phép người nói bỏ qua các quy tắc về thời gian để tập trung vào cảm xúc.",
+            "C. Kịch bản giải phóng người nói khỏi nỗi lo quên ý và áp lực suy nghĩ câu tiếp theo để tập trung hoàn toàn vào việc truyền đạt và kết nối.",
+            "D. Kịch bản giúp người thuyết trình không cần phải sử dụng các phương tiện hỗ trợ như slide hay video."
+          ],
+          "answer": "Kịch bản giải phóng người nói khỏi nỗi lo quên ý và áp lực suy nghĩ câu tiếp theo để tập trung hoàn toàn vào việc truyền đạt và kết nối"
+        },
+        {
+          "question": "Phương pháp trình bày nào đòi hỏi người nói phải có trí nhớ tuyệt vời nhưng lại dễ rơi vào tình trạng \"nói như đọc\" và thiếu cảm xúc?",
+          "options": [
+            "Nói tùy hứng.",
+            "Đọc thuộc lòng.",
+            "Nói ứng biến.",
+            "Đọc từ bản thảo."
+          ],
+          "answer": "Đọc thuộc lòng."
+        },
+        {
+          "question": "Điểm khác biệt cốt lõi giữa \"nói tùy hứng\" và \"nói ứng biến\" là gì?",
+          "options": [
+            "Nói tùy hứng cần nhiều slide hỗ trợ hơn nói ứng biến.",
+            "Nói ứng biến chỉ dành cho các cuộc thảo luận nhóm nhỏ.",
+            "Nói ứng biến dựa trên sự chuẩn bị trước về ý chính, còn nói tùy hứng hoàn toàn không chuẩn bị.",
+            "Nói tùy hứng đảm bảo tính chính xác của số liệu tốt hơn nói ứng biến."
+          ],
+          "answer": "Nói ứng biến dựa trên sự chuẩn bị trước về ý chính, còn nói tùy hứng hoàn toàn không chuẩn bị."
+        },
+        {
+          "question": "Đối với một bài báo cáo khoa học yêu cầu độ chính xác cao về số liệu nhưng vẫn cần giải thích dễ hiểu, phương pháp nào được coi là tối ưu nhất?",
+          "options": [
+            "Đọc thuộc lòng toàn bộ bài báo cáo.",
+            "Nói tùy hứng dựa trên kinh nghiệm cá nhân.",
+            "Đọc từ bản thảo cho phần số liệu và kết hợp nói ứng biến khi giải thích ý nghĩa.",
+            "Chỉ sử dụng nói ứng biến để tạo sự gần gũi."
+          ],
+          "answer": "Đọc từ bản thảo cho phần số liệu và kết hợp nói ứng biến khi giải thích ý nghĩa."
+        },
+        {
+          "question": "Việc lựa chọn một phương pháp thuyết trình phù hợp phụ thuộc vào ba yếu tố then chốt nào?",
+          "options": [
+            "Thời lượng, thiết bị kỹ thuật và trang phục diễn giả.",
+            "Giọng nói, ngôn ngữ cơ thể và cảm xúc cá nhân.",
+            "Mục tiêu bài nói, đối tượng khán giả và nội dung (phức tạp hay đơn giản).",
+            "Trí nhớ của người nói, kịch bản chi tiết và sự tự tin."
+          ],
+          "answer": "Mục tiêu bài nói, đối tượng khán giả và nội dung (phức tạp hay đơn giản)."
+        },
+        {
+          "question": "Ranh giới phân định giữa một người thuyết trình \"nghiệp dư\" và \"chuyên nghiệp\" nằm ở điểm nào?",
+          "options": [
+            "Người chuyên nghiệp bao giờ cũng đọc thuộc lòng kịch bản.",
+            "Người chuyên nghiệp không bao giờ sử dụng bản thảo khi nói.",
+            "Người chuyên nghiệp có ý thức lựa chọn phương pháp phù hợp với từng tình huống cụ thể.",
+            "Người chuyên nghiệp chỉ tập trung vào việc nói thật nhanh để giữ nhịp độ."
+          ],
+          "answer": "Người chuyên nghiệp có ý thức lựa chọn phương pháp phù hợp với từng tình huống cụ thể."
+        },
+        {
+          "question": "Theo các nghiên cứu xã hội học được trích dẫn trong tài liệu, người thuyết trình có bao nhiêu thời gian để gây ấn tượng mạnh mẽ ban đầu bằng khả năng phi ngôn ngữ?",
+          "options": [
+            "Mười giây đầu tiên.",
+            "Ba mươi giây đầu tiên.",
+            "Một phút đầu tiên.",
+            "Năm phút đầu tiên."
+          ],
+          "answer": "Ba mươi giây đầu tiên."
+        },
+        {
+          "question": "Tỷ lệ thời lượng lý tưởng cho phần mở bài so với tổng thời gian bài thuyết trình là bao nhiêu?",
+          "options": [
+            "Không quá 5%.",
+            "Không quá 10%.",
+            "Khoảng 15%.",
+            "Khoảng 20%."
+          ],
+          "answer": "Không quá 10%."
+        },
+        {
+          "question": "Đâu là ba nhiệm vụ cốt lõi mà một phần mở bài hoàn hảo phải thực hiện?",
+          "options": [
+            "Chào hỏi, kể chuyện và đặt câu hỏi.",
+            "Giới thiệu bản thân, trình bày số liệu và cảm ơn.",
+            "Chào đón và giới thiệu; gây ấn tượng; tóm tắt ngắn gọn và chuyển ý.",
+            "Thu hút sự chú ý, xin lỗi khán giả và nêu mục tiêu."
+          ],
+          "answer": "Chào đón và giới thiệu; gây ấn tượng; tóm tắt ngắn gọn và chuyển ý."
+        },
+        {
+          "question": "Tại sao tài liệu lại coi việc \"mở bài bằng câu xin lỗi\" là một điều cấm kỵ?",
+          "options": [
+            "Vì nó làm tốn thời gian của phần mở bài.",
+            "Vì khán giả không quan tâm đến những khó khăn của người nói.",
+            "Vì nó làm giảm sự tự tin và khiến khán giả nghi ngờ về khả năng của người thuyết trình ngay lập tức.",
+            "Vì lời xin lỗi chỉ nên dành cho phần kết thúc bài nói."
+          ],
+          "answer": "Vì nó làm giảm sự tự tin và khiến khán giả nghi ngờ về khả năng của người thuyết trình ngay lập tức."
+        },
+        {
+          "question": "Một sinh viên được giao thuyết trình về \"Biến đổi khí hậu\" trong vòng 10 phút. Dựa trên quy tắc mười phần trăm, thời lượng tối đa cho phần mở bài của sinh viên này nên là bao lâu?",
+          "options": [
+            "30 giây.",
+            "1 phút.",
+            "1 phút 30 giây.",
+            "2 phút."
+          ],
+          "answer": "1 phút."
+        },
+        {
+          "question": "Trong mô hình \"Cấu trúc Cái Đinh\", phần thân bài (thân đinh) chiếm khoảng bao nhiêu phần trăm tổng thời lượng bài thuyết trình?",
+          "options": [
+            "Mười phần trăm (10%).",
+            "Năm phần trăm (5%).",
+            "Tám mươi lăm phần trăm (85%).",
+            "Bảy mươi lăm phần trăm (75%)."
+          ],
+          "answer": "Tám mươi lăm phần trăm (85%)."
+        },
+        {
+          "question": "Số lượng ý chính lý tưởng nên có trong một phần thân bài để đảm bảo tính mạch lạc và phù hợp với khả năng tiếp nhận của khán giả là bao nhiêu?",
+          "options": [
+            "Chỉ nên có một ý duy nhất để tập trung sâu.",
+            "Càng nhiều ý càng tốt để thể hiện sự am hiểu.",
+            "Dao động từ ba đến năm ý chính.",
+            "Phải có ít nhất bảy ý chính."
+          ],
+          "answer": "Dao động từ ba đến năm ý chính."
+        },
+        {
+          "question": "Nếu bạn đang thực hiện một bài thuyết trình nhằm thuyết phục khán giả về việc \"Cần thay đổi thói quen sử dụng nhựa một lần\", kết cấu nội dung nào sau đây được tài liệu đánh giá là phù hợp nhất?",
+          "options": [
+            "Trình tự thời gian.",
+            "Trật tự tuyến tính.",
+            "Vấn đề - Giải pháp.",
+            "So sánh - Đối chiếu."
+          ],
+          "answer": "Vấn đề - Giải pháp."
+        },
+        {
+          "question": "Để giúp khán giả nhận biết việc người thuyết trình đang chuyển sang một ý mới và giữ cho mạch bài nói luôn mượt mà, kỹ thuật nào được khuyến nghị sử dụng?",
+          "options": [
+            "Sử dụng nhiều thuật ngữ chuyên ngành phức tạp.",
+            "Đọc lại kịch bản chi tiết một cách chậm rãi.",
+            "Sử dụng các từ nối logic như \"Thứ nhất\", \"Tuy nhiên\", \"Do đó\".",
+            "Tăng âm lượng giọng nói thật lớn khi bắt đầu ý mới."
+          ],
+          "answer": "Sử dụng các từ nối logic như \"Thứ nhất\", \"Tuy nhiên\", \"Do đó\"."
+        },
+        {
+          "question": "Điểm khác biệt cốt lõi giữa một \"thân bài yếu\" và một \"thân bài mạnh\" là gì?",
+          "options": [
+            "Thân bài mạnh phải sử dụng những câu văn dài và rườm rà.",
+            "Thân bài yếu thường có ít slide trình chiếu hơn thân bài mạnh.",
+            "Thân bài yếu nói nhiều nhưng không chứng minh, thân bài mạnh nói ít nhưng có bằng chứng vững chắc.",
+            "Thân bài mạnh là bài nói sử dụng hoàn toàn phương pháp trình bày một chiều."
+          ],
+          "answer": "Thân bài yếu nói nhiều nhưng không chứng minh, thân bài mạnh nói ít nhưng có bằng chứng vững chắc."
+        },
+        {
+          "question": "Phần Kết luận (được ví như \"Mũ Đinh\") nên chiếm bao nhiêu phần trăm tổng thời lượng của một bài thuyết trình cân đối?",
+          "options": [
+            "Mười phần trăm (10%).",
+            "Mười lăm phần trăm (15%).",
+            "Năm phần trăm (5%).",
+            "Hai mươi phần trăm (20%)."
+          ],
+          "answer": "Năm phần trăm (5%)."
+        },
+        {
+          "question": "Bước đầu tiên trong quy trình ba bước thực hiện phần kết luận chuyên nghiệp là gì?",
+          "options": [
+            "Tóm tắt lại toàn bộ các ý phụ đã trình bày.",
+            "Sử dụng các cụm từ báo hiệu để thông báo trước khi kết thúc.",
+            "Đưa ra lời kêu gọi hành động ngay lập tức.",
+            "Cảm ơn khán giả vì đã chú ý lắng nghe."
+          ],
+          "answer": "Sử dụng các cụm từ báo hiệu để thông báo trước khi kết thúc."
+        },
+        {
+          "question": "Khi thực hiện bước \"Tóm tắt ý chính\", người thuyết trình cần làm gì để tránh gây sự nhàm chán cho khán giả?",
+          "options": [
+            "Lặp lại nguyên văn các câu chữ đã dùng ở phần thân bài.",
+            "Liệt kê lại tất cả các chi tiết nhỏ nhất đã nói.",
+            "Diễn đạt lại các ý chính bằng từ ngữ khác hoặc cấu trúc câu mới.",
+            "Đọc lại tiêu đề của từng slide đã trình chiếu."
+          ],
+          "answer": "Diễn đạt lại các ý chính bằng từ ngữ khác hoặc cấu trúc câu mới."
+        },
+        {
+          "question": "Một \"Lời kêu gọi hành động\" được coi là hiệu quả và có sức thuyết phục khi hội đủ các yếu tố nào sau đây?",
+          "options": [
+            "Càng chung chung càng tốt để khán giả tự hiểu.",
+            "Cụ thể, khả thi, liên quan trực tiếp đến chủ đề và đưa ra lợi ích.",
+            "Mang tính ép buộc và yêu cầu khán giả thực hiện ngay tại chỗ.",
+            "Không cần liên quan đến nội dung đã thuyết trình trước đó."
+          ],
+          "answer": "Cụ thể, khả thi, liên quan trực tiếp đến chủ đề và đưa ra lợi ích."
+        },
+        {
+          "question": "Tại sao lại nhấn mạnh rằng phần kết luận phải \"kết nối với phần mở đầu\"?",
+          "options": [
+            "Để người thuyết trình có cơ hội nói lại những gì đã quên ở phần đầu.",
+            "Để tạo ra một vòng tròn hoàn chỉnh và tóm tắt bài học từ câu chuyện/câu hỏi ban đầu.",
+            "Để kéo dài thời gian cho đủ thời lượng quy định của bài thuyết trình.",
+            "Để khán giả không quên tên của người thuyết trình."
+          ],
+          "answer": "Để tạo ra một vòng tròn hoàn chỉnh và tóm tắt bài học từ câu chuyện/câu hỏi ban đầu."
+        },
+        {
+          "question": "Theo quy luật Albert Mehrabian yếu tố nào chiếm tỷ lệ quan trọng nhất (55%) trong việc truyền tải thông điệp và cảm xúc?",
+          "options": [
+            "Nội dung kịch bản và lời nói",
+            "Ngữ điệu và giọng nói",
+            "Ngôn ngữ cơ thể",
+            "Trang phục và phụ kiện đi kèm."
+          ],
+          "answer": "Ngôn ngữ cơ thể"
+        },
+        {
+          "question": "Để tạo sự vững chãi và chuyên nghiệp khi đứng trên sân khấu, tư thế chân chuẩn cho nam giới và nữ giới được tài liệu quy định như thế nào?",
+          "options": [
+            "Nam và nữ đều đứng hai chân rộng bằng vai.",
+            "Nam khép chân hình chữ V, nữ đứng hai chân rộng 30cm.",
+            "Nam đứng hai chân rộng khoảng 30cm, nữ khép chân hình chữ V tạo thành một góc nhỏ.",
+            "Nam đứng chụm chân, nữ đứng một chân trước một chân sau."
+          ],
+          "answer": "Nam đứng hai chân rộng khoảng 30cm, nữ khép chân hình chữ V tạo thành một góc nhỏ."
+        },
+        {
+          "question": "Kỹ thuật \"quét ánh mắt\" nào được khuyến nghị để tương tác với toàn bộ khán giả một cách tự nhiên mà không nhìn chằm chằm?",
+          "options": [
+            "Nhìn vào một điểm cố định ở cuối khán phòng",
+            "Áp dụng kỹ thuật quét theo hình chữ M, W, hoặc Z.",
+            "Chỉ nhìn vào những người đang gật đầu ủng hộ mình.",
+            "Nhìn liên tục từ trái sang phải một cách nhanh chóng."
+          ],
+          "answer": "Áp dụng kỹ thuật quét theo hình chữ M, W, hoặc Z."
+        },
+        {
+          "question": "Tốc độ nói lý tưởng đối với tiếng Việt khi thuyết trình là bao nhiêu từ mỗi phút để khán giả kịp theo dõi ý tưởng?",
+          "options": [
+            "80 - 100 từ/phút.",
+            "100 - 120 từ/phút.",
+            "120 - 150 từ/phút.",
+            "Trên 160 từ/phút."
+          ],
+          "answer": "120 - 150 từ/phút."
+        },
+        {
+          "question": "Trong các tình huống dưới đây, hành động nào được coi là \"sai lầm phổ biến\" và gây cảm giác thiếu tự tin hoặc thiếu thiện chí giao tiếp?",
+          "options": [
+            "Di chuyển có chủ đích khi cần nhấn mạnh ý quan trọng.",
+            "Mỉm cười và quan sát khán giả vài giây trước khi bắt đầu nói.",
+            "Khoanh tay trước ngực hoặc cho tay vào túi quần trong lúc thuyết trình.",
+            "Sử dụng cử chỉ tay trong vùng từ cằm đến thắt lưng."
+          ],
+          "answer": "Khoanh tay trước ngực hoặc cho tay vào túi quần trong lúc thuyết trình."
+        },
+        {
+          "question": "Yếu tố then chốt nào phân biệt một người thuyết trình chuyên nghiệp và người nghiệp dư trong việc quản lý thời gian?",
+          "options": [
+            "Khả năng nói thật nhanh để truyền tải nhiều thông tin nhất có thể.",
+            "Khả năng nói đúng ý, đúng lúc và đúng thời lượng quy định.",
+            "Khả năng sử dụng các loại đồng hồ đắt tiền để theo dõi thời gian.",
+            "Việc dành toàn bộ thời gian cho phần mở đầu và kết luận."
+          ],
+          "answer": "Khả năng nói đúng ý, đúng lúc và đúng thời lượng quy định."
+        },
+        {
+          "question": "Khi lập kế hoạch phân bổ thời gian cho các phần của bài thuyết trình, nguyên tắc quan trọng nhất cần tuân thủ là gì?",
+          "options": [
+            "Chia thời gian bằng nhau cho tất cả các phần.",
+            "Phần giới thiệu phải là phần chiếm nhiều thời gian nhất.",
+            "Phần nội dung cốt lõi luôn phải chiếm thời lượng lớn nhất.",
+            "Phần câu hỏi và trả lời chỉ nên diễn ra trong 30 giây."
+          ],
+          "answer": "Phần nội dung cốt lõi luôn phải chiếm thời lượng lớn nhất."
+        },
+        {
+          "question": "\"Nguyên tắc vàng\" mà người thuyết trình cần thực hiện ngay lập tức khi gặp các tình huống bất ngờ (như quên bài hoặc lỗi kỹ thuật) là gì?",
+          "options": [
+            "Nhanh chóng xin lỗi khán giả một cách dài dòng.",
+            "Cố gắng nói thật nhanh để che giấu sự bối rối.",
+            "Giữ bình tĩnh, hít thở sâu để ổn định nhịp tim.",
+            "Dừng bài thuyết trình và rời khỏi sân khấu."
+          ],
+          "answer": "Giữ bình tĩnh, hít thở sâu để ổn định nhịp tim."
+        },
+        {
+          "question": "Nếu máy chiếu hoặc âm thanh gặp sự cố kỹ thuật trong lúc đang thuyết trình, cách xử lý nào sau đây thể hiện sự linh hoạt chuyên nghiệp?",
+          "options": [
+            "Than phiền về sự thiếu chuẩn bị của ban tổ chức.",
+            "Giữ im lặng tuyệt đối cho đến khi sự cố được khắc phục xong.",
+            "Thông báo ngắn gọn và tương tác với khán giả bằng câu hỏi hoặc câu chuyện liên quan.",
+            "Cố gắng tự sửa chữa thiết bị ngay trên sân khấu."
+          ],
+          "answer": "Thông báo ngắn gọn và tương tác với khán giả bằng câu hỏi hoặc câu chuyện liên quan."
+        },
+        {
+          "question": "Việc một diễn giả thừa nhận mình \"không biết\" câu trả lời cho một câu hỏi khó từ khán giả mang lại giá trị gì?",
+          "options": [
+            "Làm cho diễn giả trở nên yếu kém và thiếu kiến thức trong mắt người nghe",
+            "Giúp diễn giả kết thúc bài thuyết trình sớm hơn dự kiến.",
+            "Cho thấy sự trung thực, đáng tin cậy và tư duy phản biện của diễn giả.",
+            "Khiến khán giả không dám đặt thêm các câu hỏi khác.Câu 1"
+          ],
+          "answer": "Cho thấy sự trung thực, đáng tin cậy và tư duy phản biện của diễn giả."
+        },
+        {
+          "question": "Chiến lược nào được khẳng định là nền tảng của mọi kỹ năng thuyết phục, yêu cầu người nói phải \"nhập vai\" là người đối diện để cảm nhận tính cách, hoàn cảnh và tâm hồn của họ?",
+          "options": [
+            "Thuyết phục bằng uy tín",
+            "Thuyết phục bằng sự thông cảm và thấu hiểu",
+            "Thuyết phục bằng sự lôi cuốn",
+            "Thuyết phục bằng sự tin tưởng"
+          ],
+          "answer": "Thuyết phục bằng sự thông cảm và thấu hiểu"
+        },
+        {
+          "question": "Khi trình bày một giải pháp mới (ví dụ: chuyển từ học lý thuyết truyền thống sang học theo dự án thực tế), để xây dựng sự tin tưởng từ người nghe, người thuyết phục cần thể hiện sự minh bạch bằng cách nào?",
+          "options": [
+            "Chỉ tập trung phân tích những lợi ích vượt trội và tuyệt đối để người nghe hào hứng đồng ý ngay từ đầu",
+            "Sử dụng các lời khen ngợi thật ngọt ngào để người nghe cởi mở và bỏ qua các khuyết điểm của phương pháp",
+            "Tránh đề cập đến các khó khăn hoặc sự tốn kém thời gian nhằm giữ cho tâm lý người nghe không bị hoang mang",
+            "Nêu rõ cả ưu và khuyết của vấn đề, thừa nhận những khó khăn thực tế trước khi chứng minh giá trị lâu dài của giải pháp"
+          ],
+          "answer": "Nêu rõ cả ưu và khuyết của vấn đề, thừa nhận những khó khăn thực tế trước khi chứng minh giá trị lâu dài của giải pháp"
+        },
+        {
+          "question": "Trong chiến lược \"Thuyết phục bằng sự lôi cuốn\", bài giảng nhấn mạnh yếu tố nào sau đây là cực kỳ quan trọng quyết định đến sự thành bại khi đề xuất một vấn đề (ví dụ như xin sếp phê duyệt ngân sách)?",
+          "options": [
+            "Việc đưa ra những lời khen ngợi mang tính xu nịnh để sếp vui vẻ chấp nhận",
+            "Việc lựa chọn đúng thời điểm để thuyết phục (tránh lúc khó khăn tài chính, chọn lúc tình hình ổn định hoặc vừa có thành công trước đó)",
+            "Việc chứng minh rằng ý tưởng của mình là độc nhất vô nhị ngay cả khi chưa có sự chuẩn bị kỹ lưỡng",
+            "Việc thể hiện một thái độ ngập ngừng để sếp thấy được sự khiêm tốn của bản thân"
+          ],
+          "answer": "Việc lựa chọn đúng thời điểm để thuyết phục (tránh lúc khó khăn tài chính, chọn lúc tình hình ổn định hoặc vừa có thành công trước đó)"
+        },
+        {
+          "question": "Một diễn giả muốn áp dụng chiến lược \"Thuyết phục bằng uy tín\" để đề xuất áp dụng một phương pháp học tập mới. Thay vì nói: \"Tôi nghĩ chúng ta nên áp dụng phương pháp học tập mới\", diễn giả này nên diễn đạt như thế nào để luận điểm được nâng tầm thuyết phục nhất?",
+          "options": [
+            "Chúng ta hãy tin tưởng tôi, phương pháp này chắc chắn sẽ thành công",
+            "Nếu không tham gia phương pháp này ngay trong tháng này, các bạn sẽ bỏ lỡ cơ hội duy nhất",
+            "Tôi đã nghiên cứu rất kỹ và khẳng định phương pháp này vô cùng độc đáo, hiếm thấy",
+            "Theo nghiên cứu của Đại học Harvard, phương pháp học tập này đã tăng hiệu quả lên 40% trong vòng sáu tháng"
+          ],
+          "answer": "Theo nghiên cứu của Đại học Harvard, phương pháp học tập này đã tăng hiệu quả lên 40% trong vòng sáu tháng"
+        },
+        {
+          "question": "Theo quy luật \"Cái gì càng hiếm thì giá trị càng cao\", khi áp dụng chiến lược \"Tạo sự khan hiếm, tạo sự duy nhất\", để thúc đẩy người nghe hành động ngay lập tức, người thuyết phục xuất sắc cần phải trình bày những nội dung gì?",
+          "options": [
+            "Chỉ cần trình bày về những lợi ích to lớn mà họ chắc chắn sẽ nhận được",
+            "Phải nêu rõ những lợi ích đặc biệt họ sẽ đạt được và đồng thời đề cập đến cả những thứ họ có thể sẽ đánh mất nếu từ chối",
+            "Tập trung trích dẫn thật nhiều số liệu từ các chuyên gia hàng đầu để củng cố lòng tin của họ",
+            "Đưa ra các câu hỏi tương đồng để người nghe liên tục đưa ra câu trả lời là \"đồng ý"
+          ],
+          "answer": "Phải nêu rõ những lợi ích đặc biệt họ sẽ đạt được và đồng thời đề cập đến cả những thứ họ có thể sẽ đánh mất nếu từ chối"
+        },
+        {
+          "question": "Hội chứng sợ nói trước đám đông có tên khoa học là gì và tỷ lệ người từng trải qua trạng thái lo lắng này là bao nhiêu?",
+          "options": [
+            "Glossophobia; chiếm 55% dân số",
+            "Socialphobia; chiếm 75% dân số",
+            "Glossophobia; chiếm 75% dân số",
+            "Xenophobia; chiếm 80% dân số"
+          ],
+          "answer": "Glossophobia; chiếm 75% dân số"
+        },
+        {
+          "question": "Đâu là \"nguyên nhân phổ biến nhất\" dẫn đến nỗi sợ hãi khi đứng trước đám đông",
+          "options": [
+            "Sợ bị khán giả chỉ trích và bác bỏ ý kiến",
+            "Sợ không đáp ứng được kỳ vọng của người khác",
+            "Sợ quên bài trong quá trình nói",
+            "Sợ các sự cố kỹ thuật về âm thanh và slide"
+          ],
+          "answer": "Sợ bị khán giả chỉ trích và bác bỏ ý kiến"
+        },
+        {
+          "question": "Trong chiến lược chuẩn bị kỹ lưỡng, việc sử dụng \"thẻ gợi ý\" (cue cards) nên được thực hiện như thế nào để vừa hỗ trợ trí nhớ vừa giữ được sự tự nhiên?",
+          "options": [
+            "Ghi nguyên văn kịch bản để đảm bảo không sai sót từ ngữ nào",
+            "Chỉ nên ghi các từ khóa (keywords) để nắm bắt mạch logic mà không bị phụ thuộc tuyệt đối vào giấy",
+            "Ghi các câu hỏi dự kiến của khán giả để chuẩn bị câu trả lời",
+            "Không nên sử dụng thẻ gợi ý vì sẽ làm giảm sự tự tin trong mắt người xem"
+          ],
+          "answer": "Chỉ nên ghi các từ khóa (keywords) để nắm bắt mạch logic mà không bị phụ thuộc tuyệt đối vào giấy"
+        },
+        {
+          "question": "Khi muốn kiểm soát tâm lý bằng cách thay đổi tư duy, người thuyết trình nên nhìn nhận khán giả theo góc độ nào là hiệu quả nhất?",
+          "options": [
+            "Là những vị giám khảo khắt khe đang chờ đợi để phán xét sai lầm của bạn",
+            "Là một đám đông xa lạ không có sự kết nối với nội dung bài nói",
+            "Là những người bạn đang lắng nghe câu chuyện, muốn học hỏi và kết nối với bạn",
+            "Là những đối thủ cần phải được thuyết phục bằng mọi giá"
+          ],
+          "answer": "Là những người bạn đang lắng nghe câu chuyện, muốn học hỏi và kết nối với bạn"
+        },
+        {
+          "question": "Kỹ thuật hít thở sâu để ổn định nhịp tim và giảm căng thẳng trước khi lên sân khấu được tài liệu mô tả cụ thể như thế nào?",
+          "options": [
+            "Hít vào thật nhanh qua miệng và thở ra nhanh qua mũi",
+            "Nín thở trong 10 giây rồi thở ra mạnh qua miệng",
+            "Hít vào chậm qua mũi, giữ trong 4 giây, sau đó thở ra chậm qua miệng",
+            "Hít vào và thở ra liên tục bằng mũi để tăng lượng oxy lên não"
+          ],
+          "answer": "Hít vào chậm qua mũi, giữ trong 4 giây, sau đó thở ra chậm qua miệng"
+        },
+        {
+          "question": "Bản chất thực sự của việc đánh giá bài thuyết trình là gì?",
+          "options": [
+            "Là quá trình chấm điểm và đưa ra nhận xét chung chung để xếp loại người nói",
+            "Là một hình thức phê bình nhằm chỉ ra những lỗi sai không thể sửa chữa",
+            "Là quá trình nhận diện điểm mạnh, điểm yếu để cải thiện liên tục và nâng cao kỹ năng",
+            "Là việc đo lường xem khán giả có yêu thích tính cách của người thuyết trình hay không"
+          ],
+          "answer": "Là quá trình nhận diện điểm mạnh, điểm yếu để cải thiện liên tục và nâng cao kỹ năng"
+        },
+        {
+          "question": "Tại sao yêu cầu đánh giá cần phải được thực hiện ngay sau khi bài thuyết trình kết thúc?",
+          "options": [
+            "Để người thuyết trình sớm nhận được điểm số và ra về",
+            "Để tránh việc người đánh giá bị tác động bởi ý kiến của những khán giả khác",
+            "Để đảm bảo thông tin còn tươi mới, giúp việc đánh giá khách quan và chi tiết hơn",
+            "Để tiết kiệm chi phí thuê hội trường và trang thiết bị hỗ trợ"
+          ],
+          "answer": "Để đảm bảo thông tin còn tươi mới, giúp việc đánh giá khách quan và chi tiết hơn"
+        },
+        {
+          "question": "Theo tiêu chí đánh giá về công cụ hỗ trợ (Slide), nguyên tắc \"6x6\" được hiểu như thế nào?",
+          "options": [
+            "Mỗi bài thuyết trình tối đa 6 slide và mỗi slide dùng trong 6 phút",
+            "Mỗi slide tối đa 6 dòng và mỗi dòng không quá 6 từ",
+            "Slide phải sử dụng 6 màu sắc và 6 loại font chữ nhất quán",
+            "Mỗi ý chính phải được minh họa bằng ít nhất 6 hình ảnh hoặc video"
+          ],
+          "answer": "Mỗi slide tối đa 6 dòng và mỗi dòng không quá 6 từ"
+        },
+        {
+          "question": "Một bài thuyết trình có tổng thời lượng là 20 phút. Theo cấu trúc phân bổ thời gian 10% - 85% - 5%, thời gian dành cho phần Thân bài nên là bao nhiêu?",
+          "options": [
+            "10 phút",
+            "15 phút",
+            "17 phút",
+            "18 phút"
+          ],
+          "answer": "17 phút"
+        },
+        {
+          "question": "Đâu là ví dụ về việc đánh giá dựa trên \"bằng chứng cụ thể\" thay vì cảm tính theo hướng dẫn của tài liệu?",
+          "options": [
+            "\"Tôi cảm thấy bài thuyết trình của bạn hôm nay rất tuyệt vời.\"",
+            "\"Bạn nói hơi nhanh, tôi không thể nghe kịp những gì bạn diễn đạt.\"",
+            "\"Bài thuyết trình của bạn khá tốt nhưng cần tự tin hơn nữa trên sân khấu.\"",
+            "\"Phần mở đầu của bạn rất hấp dẫn, đặc biệt là câu chuyện minh họa về trải nghiệm thực tế.\""
+          ],
+          "answer": "\"Phần mở đầu của bạn rất hấp dẫn, đặc biệt là câu chuyện minh họa về trải nghiệm thực tế.\""
+        },
+        {
+          "question": "Một \"Lời kêu gọi hành động\" được coi là hiệu quả và có sức thuyết phục khi hội đủ các yếu tố nào sau đây??",
+          "options": [
+            "Càng chung chung càng tốt để khán giả tự hiểu.",
+            "Cụ thể, khả thi, liên quan trực tiếp đến chủ đề và đưa ra lợi ích.",
+            "Mang tính ép buộc và yêu cầu khán giả thực hiện ngay tại chỗ..",
+            "Không cần liên quan đến nội dung đã thuyết trình trước đó."
+          ],
+          "answer": "Cụ thể, khả thi, liên quan trực tiếp đến chủ đề và đưa ra lợi ích."
+        },
+        {
+          "question": "Đâu là \"nguyên nhân phổ biến nhất\" dẫn đến nỗi sợ hãi khi đứng trước đám đôn",
+          "options": [
+            "Sợ bị khán giả chỉ trích và bác bỏ ý kiến.",
+            "Sợ không đáp ứng được kỳ vọng của người khác.",
+            "Sợ quên bài trong quá trình nói.",
+            "Sợ các sự cố kỹ thuật về âm thanh và slide."
+          ],
+          "answer": "Sợ bị khán giả chỉ trích và bác bỏ ý kiến"
+        },
+        {
+          "question": "Theo tài liệu, bản chất thực sự của việc đánh giá bài thuyết trình là gì?",
+          "options": [
+            "Là quá trình chấm điểm và đưa ra nhận xét chung chung để xếp loại người nói.",
+            "Là một hình thức phê bình nhằm chỉ ra những lỗi sai không thể sửa chữa.",
+            "Là quá trình nhận diện điểm mạnh, điểm yếu để cải thiện liên tục và nâng cao kỹ năng.",
+            "Là việc đo lường xem khán giả có yêu thích tính cách của người thuyết trình hay không."
+          ],
+          "answer": "Là quá trình nhận diện điểm mạnh, điểm yếu để cải thiện liên tục và nâng cao kỹ năng."
+        }
+      ]
+    }
+  ],
+  "total_questions": 103
+}

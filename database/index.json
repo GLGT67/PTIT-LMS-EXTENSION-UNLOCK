@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "updated_at": "2026-10-21",
+  "author": "GLGT67",
+  "subjects": [
+    {
+      "code": "SKD1101",
+      "name": "Kỹ năng thuyết trình",
+      "file": "SKD1101.json",
+      "total_questions": 103,
+      "status": "ready"
+    },
+    {
+      "code": "MUL12117",
+      "name": "Lịch sử văn minh thế giới",
+      "file": "MUL12117.json",
+      "total_questions": 94,
+      "status": "ready"
+    }
+  ]
+}
