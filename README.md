@@ -1,7 +1,10 @@
 # PTIT LMS & S-Link - Extension Unlock (v2.3.0)
+
 tool được vibe code 98%
+
 Tiện ích mở rộng và UserScript mở khóa tính năng tua video trên LMS PTIT & Tự động điền đánh giá giảng viên trên hệ thống S-Link PTIT.
 
+tải ở https://github.com/GLGT67/PTIT-LMS-EXTENSION-UNLOCK/releases
 👨‍💻 **Phát triển bởi:** [GLGT67](https://github.com/GLGT67)
 
 ---
