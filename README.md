@@ -33,6 +33,6 @@ các môn được hỗ trợ sẽ ở có trong database
 - Tạo script mới và dán toàn bộ nội dung file `workspace/ptit_lms_unlock.user.js` vào rồi lưu lại.
 
 P/s nếu không tải được có thể hỏi AI, hoặc liên hệ với tôi nếu bạn đủ rảnh.
-p/ps nếu muốn giúp mở rộng các môn được hỗ trợ điền đáp án nhanh hãy liên hệ tôi nhé link in profile.
+p/ps vì tác giả không thể truy cập được hết các môn, nên nếu muốn giúp mở rộng các môn được hỗ trợ điền đáp án nhanh hãy liên hệ tôi nhé link in profile.
 
 
