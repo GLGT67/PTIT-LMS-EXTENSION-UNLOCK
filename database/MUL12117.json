@@ -2,10 +2,10 @@
   "subject_code": "MUL12117",
   "subject_name": "Lịch sử văn minh thế giới",
   "version": "1.0",
-  "updated_at": "2026-10-21",
+  "updated_at": "2026-10-23",
   "author": "GLGT67",
   "source": "PTIT LMS Trusted Source (https://lms.ptit.edu.vn/courses/course-v1:PTIT+MUL12117+20261)",
-  "total_questions": 94,
+  "total_questions": 103,
   "quizzes": [
     {
       "lesson_name": "Toàn bộ ngân hàng câu hỏi Lịch sử văn minh thế giới (MUL12117) - 100% Đầy Đủ",
@@ -949,6 +949,96 @@
             "Nền kinh tế công nghiệp cơ khí hiện đại"
           ],
           "answer": "Nền kinh tế công nghiệp cơ khí hiện đại"
+        },
+        {
+          "question": "Đặc điểm tự nhiên nào sau đây tạo điều kiện thuận lợi nhất cho sự phát triển nông nghiệp ở Trung Quốc cổ đại?",
+          "answer": "Các đồng bằng châu thổ màu mỡ ở phía Đông",
+          "options": [
+            "Phía Tây có nhiều núi và cao nguyên",
+            "Khí hậu khô hanh quanh năm",
+            "Các đồng bằng châu thổ màu mỡ ở phía Đông",
+            "Đường bờ biển dài thuận lợi cho thương mại biển"
+          ]
+        },
+        {
+          "question": "Hai con sông lớn có vai trò đặc biệt quan trọng đối với sự hình thành văn minh Trung Quốc cổ đại là:",
+          "answer": "Sông Hoàng Hà và Trường Giang",
+          "options": [
+            "Sông Ấn và sông Hằng",
+            "Sông Nile và sông Euphrates",
+            "Sông Hoàng Hà và Trường Giang",
+            "Sông Tigris và Euphrates"
+          ]
+        },
+        {
+          "question": "Nhà nước đầu tiên trong lịch sử Trung Quốc cổ đại được hình thành dưới triều đại nào?",
+          "answer": "Nhà Hạ",
+          "options": [
+            "Nhà Thương",
+            "Nhà Chu",
+            "Nhà Hạ",
+            "Nhà Tần"
+          ]
+        },
+        {
+          "question": "Giai đoạn lịch sử nào sau đây gắn với sự phát triển mạnh mẽ của tư tưởng triết học và xung đột giữa các chư hầu ở Trung Quốc cổ đại?",
+          "answer": "Thời Xuân Thu - Chiến Quốc",
+          "options": [
+            "Thời nhà Hán",
+            "Thời Xuân Thu - Chiến Quốc",
+            "Thời Tam quốc",
+            "Thời nhà Đường"
+          ]
+        },
+        {
+          "question": "Giáp cốt văn – loại chữ viết cổ của Trung Quốc – xuất hiện vào thời nào?",
+          "answer": "Nhà Thương",
+          "options": [
+            "Nhà Chu",
+            "Nhà Hạ",
+            "Nhà Thương",
+            "Nhà Hán"
+          ]
+        },
+        {
+          "question": "Ai là người phát minh kỹ thuật làm giấy ở Trung Quốc vào năm 105?",
+          "answer": "Thái Luân",
+          "options": [
+            "Lão Tử",
+            "Khổng Tử",
+            "Thái Luân",
+            "Tôn Tư Mạc"
+          ]
+        },
+        {
+          "question": "Trong tư tưởng triết học Trung Quốc thời Xuân Thu – Chiến Quốc, ai là người sáng lập Đạo gia?",
+          "answer": "Lão Tử",
+          "options": [
+            "Khổng Tử",
+            "Lão Tử",
+            "Hàn Phi Tử",
+            "Mặc Tử"
+          ]
+        },
+        {
+          "question": "Trong tư tưởng triết học Trung Quốc, ai là người sáng lập Pháp gia?",
+          "answer": "Hàn Phi Tử",
+          "options": [
+            "Khổng Tử",
+            "Lão Tử",
+            "Hàn Phi Tử",
+            "Mặc Tử"
+          ]
+        },
+        {
+          "question": "Bộ tiểu thuyết chương hồi Tam Quốc Diễn Nghĩa được viết bởi ai?",
+          "answer": "La Quán Trung",
+          "options": [
+            "La Quán Trung",
+            "Thi Nại Am",
+            "Ngô Thừa Ân",
+            "Tào Tuyết Cần"
+          ]
         }
       ]
     }

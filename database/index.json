@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "updated_at": "2026-10-21",
+  "updated_at": "2026-10-23",
   "author": "GLGT67",
   "subjects": [
     {
@@ -14,7 +14,7 @@
       "code": "MUL12117",
       "name": "Lịch sử văn minh thế giới",
       "file": "MUL12117.json",
-      "total_questions": 94,
+      "total_questions": 103,
       "status": "ready"
     },
     {
